@@ -1,0 +1,15 @@
+C:\Users\EK\source\repos\MegaWin\MegaWin\bin\Debug\MegaWin.exe.config
+C:\Users\EK\source\repos\MegaWin\MegaWin\bin\Debug\MegaWin.exe
+C:\Users\EK\source\repos\MegaWin\MegaWin\bin\Debug\MegaWin.pdb
+C:\Users\EK\source\repos\MegaWin\MegaWin\obj\Debug\MegaWin.csprojAssemblyReference.cache
+C:\Users\EK\source\repos\MegaWin\MegaWin\obj\Debug\MainWindow.g.cs
+C:\Users\EK\source\repos\MegaWin\MegaWin\obj\Debug\App.g.cs
+C:\Users\EK\source\repos\MegaWin\MegaWin\obj\Debug\MegaWin_MarkupCompile.cache
+C:\Users\EK\source\repos\MegaWin\MegaWin\obj\Debug\MegaWin_MarkupCompile.lref
+C:\Users\EK\source\repos\MegaWin\MegaWin\obj\Debug\MainWindow.baml
+C:\Users\EK\source\repos\MegaWin\MegaWin\obj\Debug\MegaWin.g.resources
+C:\Users\EK\source\repos\MegaWin\MegaWin\obj\Debug\MegaWin.Properties.Resources.resources
+C:\Users\EK\source\repos\MegaWin\MegaWin\obj\Debug\MegaWin.csproj.GenerateResource.cache
+C:\Users\EK\source\repos\MegaWin\MegaWin\obj\Debug\MegaWin.csproj.CoreCompileInputs.cache
+C:\Users\EK\source\repos\MegaWin\MegaWin\obj\Debug\MegaWin.exe
+C:\Users\EK\source\repos\MegaWin\MegaWin\obj\Debug\MegaWin.pdb
